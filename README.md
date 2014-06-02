@@ -1,6 +1,7 @@
 colony
 
 A simple way to look at object interactions on a class level
+![example image](https://raw.githubusercontent.com/schlubbi/colony/master/colony.png)
 ======
 
 ## Dependecies  
